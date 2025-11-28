@@ -1,9 +1,6 @@
 # PLSQL-Class-Group-Work-ON-Triggers
 A complete PL/SQL development project including system access triggers, HR management package, login security audit trigger, and hospital management bulk-processing package. Includes documentation, screenshots, testing scripts, and a professional project report.
 
-
-# PLSQL-Class-Group-Work-ON-Triggers
-
 This repository contains the group work and implementation for PL/SQL triggers, packages, and database automation tasks.  
 
 ## 📘 Project Overview  
