@@ -26,7 +26,11 @@ This projects includes:
 ### **2. HR Employee Management Package**
 - Calculates RSSB tax  
 - Uses dynamic SQL to update salary  
-- Demonstrates USER vs CURRENT_USER  
+- Demonstrates USER vs CURRENT_USER
+
+      <img width="610" height="548" alt="Image" src="https://github.com/user-attachments/assets/6e78a3b2-9d32-4693-a142-9e59fcd6ad99" />
+
+Output 
 
 <img width="483" height="273" alt="Image" src="https://github.com/user-attachments/assets/c416c71a-3b8c-4ce8-96fc-c9131827c8c3" />
 
@@ -43,7 +47,7 @@ This projects includes:
 - Returns all patients via REF CURSOR  
 - Admits and counts admitted patients
 
-    <img width="610" height="548" alt="Image" src="https://github.com/user-attachments/assets/6e78a3b2-9d32-4693-a142-9e59fcd6ad99" />
+ 
 
 ---
 
