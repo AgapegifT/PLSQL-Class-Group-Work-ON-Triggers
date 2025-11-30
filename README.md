@@ -4,7 +4,7 @@ A complete PL/SQL development project including system access triggers, HR manag
 This repository contains the group work and implementation for PL/SQL triggers, packages, and database automation tasks.  
 
 ## 📘 Project Overview  
-This project includes:
+This projects includes:
 
 ### **1. System Access Control Triggers**
 - Prevents access during weekends  
