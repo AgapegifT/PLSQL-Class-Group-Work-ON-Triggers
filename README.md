@@ -28,7 +28,7 @@ This projects includes:
 - Uses dynamic SQL to update salary  
 - Demonstrates USER vs CURRENT_USER
 
-      <img width="610" height="548" alt="Image" src="https://github.com/user-attachments/assets/6e78a3b2-9d32-4693-a142-9e59fcd6ad99" />
+  <img width="610" height="548" alt="Image" src="https://github.com/user-attachments/assets/6e78a3b2-9d32-4693-a142-9e59fcd6ad99" />
 
 Output 
 
